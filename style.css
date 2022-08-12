@@ -1,0 +1,104 @@
+.header{
+    text-align: right;
+    padding: 0 20px 10px ;
+    background-color: #dbd9d9;
+}
+
+.href{
+    font-size: 30px;
+    margin: 0 80px 0 0;
+    color: black;
+}
+h3{
+    text-align: left;
+    font-size: 20px;
+}
+#login\ button{
+    padding: 10px 10px 10px 10px;
+    background-color: #bfbfbf;
+    border: none;
+    border-radius: 5px;
+    color: #1c1f1c;
+}
+#login\ button:hover{
+    background-color: #5c5b5b;
+}
+
+
+
+.sector{
+    border: solid 5px black;
+    height: 300px;
+    display: inline-block;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 1%;
+
+}
+.d-flex{
+    padding: 100px 50px 0 50px;
+
+}
+#info{
+    background-color: #ede9e8;
+    padding: 3% 30%;
+    border: 1px solid #0572b5;
+    border-radius: 5px;
+    color: #0572b5;
+}
+#info:hover{
+    background-color: #a2a3a3;
+}
+img{
+    width: 60%;
+}
+.footer{
+    padding: 0 20px 10px ;
+    background-color: #dbd9d9;
+    text-align: center;
+}
+
+
+
+#email\ form{
+    margin: 50px 0 50px 500px;
+}
+#submit{
+    padding: 15px 25px 10px 15px;
+    background-color: #038a05;
+    border-radius: 10px;
+    color: #ffffff;
+    border: none;
+}
+#submit:hover{
+    border: 1px solid #1c1f1c;
+}
+
+
+
+#login\ form{
+    margin: 100px 0 100px 700px;
+
+}
+.style{
+    margin: 0 0 10px 0;
+    padding: 1%;
+}
+
+
+
+.text{
+    font-size: 30px;
+    color: crimson;
+    margin: 200px 250px 0;
+}
+#go\ out{
+    margin: 50px 800px 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: #eb1405;
+    border: none;
+    border-radius: 10px;
+}
+#go\ out:hover{
+    background-color: #630101;
+}
